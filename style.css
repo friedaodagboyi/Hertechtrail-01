@@ -1,0 +1,31 @@
+*{
+    background-color: #cac1c1e8;
+    
+}
+
+.imagename{
+    font-size: medium;
+    font-weight: bold;
+    color: #222;
+    text-align: center;
+    padding: 10px;
+}
+
+.img-icon{
+    border-radius: 0px;
+}
+
+#topic{
+    font-size: 40px;
+    font-weight: bolder;
+    color: rgb(9, 36, 36);
+    text-align: center;
+    margin: 30px;
+}
+
+.footer{
+    font-size: smaller;
+    color: #615757; 
+    text-align: center;
+    padding: 30px;
+}
