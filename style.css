@@ -10,9 +10,8 @@
     text-align: center;
     padding: 10px;
 }
-
-.img-icon{
-    border-radius: 0px;
+.imagename:hover{
+    cursor: pointer;
 }
 
 #topic{
